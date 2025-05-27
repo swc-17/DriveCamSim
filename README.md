@@ -1,7 +1,7 @@
 # DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving
 
 ## News
-* **`27 May, 2025`:** We release the DriveCamSim paper on [arXiv](). Code & Models will be released after preparation. Please stay tuned!
+* **`27 May, 2025`:** We release the DriveCamSim paper on [arXiv](http://arxiv.org/abs/2505.19692). Code & Models will be released after preparation. Please stay tuned!
 
 ## Introduction
 > DriveCamSim is a generation framework for generalizable camera simulation. With proposed Explicit Camera Modeling and Information-Preserving control mechanism, DriveCamSim not only achieves SOTA performance in visual quality and controllability, but also unleashes the generalization capability across spatial-level(camera extrinsic/intrinsic, number of views) and temporal-level(video frequency, reverse temporal order), supporting flexible camera simulation for downstream application.
