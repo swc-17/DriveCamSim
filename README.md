@@ -51,7 +51,12 @@
 ## Citation
 If you find our work useful in your research or applications, please consider giving us a star &#127775; and citing it by the following BibTeX entry.
 ```
-
+@article{sun2025drivecamsim,
+  title={DriveCamSim: Generalizable Camera Simulation via Explicit Camera Modeling for Autonomous Driving},
+  author={Sun, Wenchao and Lin, Xuewu and Chen, Keyu and Pei, Zixiang and Shi, Yining and Zhang, Chuang and Zheng, Sifa},
+  journal={arXiv preprint arXiv:2505.19692},
+  year={2025}
+}
 ```
 
 ## Acknowledgement
